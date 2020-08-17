@@ -6,6 +6,8 @@
 
 Vision AI is a cloud-based service offered by Google. It employs Machine Learning algorithms to analyze images. While users can make use of AutoML Vision to analyze images using custom datasets, in this article,we will be focussing on Vision API, which uses pre-trained ML models to analyze images. Vision API can be used for text recognition, face detection, object detection, etc. We&#39;ll be using the ImageAnnotator Client to extract Text from Images with Python Programming Language.
 
+To extract text from a single image, use the 'Vision_API.py' code. To extract text from multiple images in same folder, use the 'Vision_API (For Multiple Images).py' code.
+
 #### Enabling Vision API and creating Credentials in Google Cloud console
 
 Step 1: Open Google Cloud console
