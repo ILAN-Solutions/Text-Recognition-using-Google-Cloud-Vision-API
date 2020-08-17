@@ -1,6 +1,8 @@
-# A Complete Guide to Text Recognition using Google&#39;s Cloud Vision API
+# A Complete Guide to Text Recognition using Google Cloud Vision API
 
-![](https://github.com/ILAN-Solutions/Text-Recognition-using-Google-Cloud-Vision-API/blob/master/Images/img0.png)
+<p align="center">
+  <img src="https://github.com/ILAN-Solutions/Text-Recognition-using-Google-Cloud-Vision-API/blob/master/Images/img0.png">
+</p>
 
 Vision AI is a cloud-based service offered by Google. It employs Machine Learning algorithms to analyze images. While users can make use of AutoML Vision to analyze images using custom datasets, in this article,we will be focussing on Vision API, which uses pre-trained ML models to analyze images. Vision API can be used for text recognition, face detection, object detection, etc. We&#39;ll be using the ImageAnnotator Client to extract Text from Images with Python Programming Language.
 
